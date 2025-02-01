@@ -26,3 +26,11 @@ Here are some ideas to get you started:
 | Top Languages | ![](https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)&nbsp; |
 | Visitor Count | ![](https://profile-counter.glitch.me/{playmonkey}/count.svg)&nbsp; |
 | Profile Views | ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=playmonkey&repo=playmonkey&countColorcountColor&countColor=%237B1E7B)&nbsp; |
+
+<!-- Invisible Statistics -->
+<div style="display: flex; flex-wrap: wrap; gap: 16px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=playmonkey&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark">
+    <img src="https://profile-counter.glitch.me/{playmonkey}/count.svg">
+    <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=playmonkey&repo=playmonkey&countColorcountColor&countColor=%237B1E7B">
+</div>
