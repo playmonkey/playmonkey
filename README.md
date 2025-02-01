@@ -23,14 +23,6 @@
 </table>
 
 
-<!-- Invisible Statistics Table -->
-| Statistics | Details |
-|------------|-----------|
-| Streak Stats | ![](https://github-readme-streak-stats.herokuapp.com/?user=playmonkey&theme=tokyonight)&nbsp; |
-| Top Languages | ![](https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)&nbsp; |
-| Visitor Count | ![](https://profile-counter.glitch.me/{playmonkey}/count.svg)&nbsp; |
-| Profile Views | ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=playmonkey&repo=playmonkey&countColorcountColor&countColor=%237B1E7B)&nbsp; |
-
 <!--
 **playmonkey/playmonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
