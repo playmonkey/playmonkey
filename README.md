@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 
 <img src="https://profile-counter.glitch.me/{playmonkey}/count.svg" alt="playmonkey :: Visitor's Count" />
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=playmonkey&repo=playmonkey&countColorcountColor&countColor=%237B1E7B"/>
+
+| Statistics | Details |
+|------------|-----------|
+| Streak Stats | ![](https://github-readme-streak-stats.herokuapp.com/?user=playmonkey&theme=tokyonight) |
+| Top Languages | ![](https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark) |
+| Visitor Count | ![](https://profile-counter.glitch.me/{playmonkey}/count.svg) |
+| Profile Views | ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=playmonkey&repo=playmonkey&countColorcountColor&countColor=%237B1E7B) |
