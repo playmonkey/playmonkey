@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <img src="https://profile-counter.glitch.me/{playmonkey}/count.svg" alt="playmonkey :: Visitor's Count" />
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=playmonkey&repo=playmonkey&countColorcountColor&countColor=%237B1E7B"/>
 
+<!-- Invisible Statistics Table -->
 | Statistics | Details |
 |------------|-----------|
 | Streak Stats | ![](https://github-readme-streak-stats.herokuapp.com/?user=playmonkey&theme=tokyonight) |
