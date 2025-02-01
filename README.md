@@ -1,28 +1,3 @@
-<!-- Invisible Statistics Table -->
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none;">Statistics</td>
-    <td style="border: none;">Details</td>
-  </tr>
-  <tr>
-    <td style="border: none;">Streak Stats</td>
-    <td style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=playmonkey&theme=tokyonight" alt="Streak Stats"></td>
-  </tr>
-  <tr>
-    <td style="border: none;">Top Languages</td>
-    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages"></td>
-  </tr>
-  <tr>
-    <td style="border: none;">Visitor Count</td>
-    <td style="border: none;"><img src="https://profile-counter.glitch.me/playmonkey/count.svg" alt="Visitor Count"></td>
-  </tr>
-  <tr>
-    <td style="border: none;">Profile Views</td>
-    <td style="border: none;"><img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=playmonkey&repo=playmonkey&countColor=%237B1E7B" alt="Profile Views"></td>
-  </tr>
-</table>
-
-### Invisible Statistics
 
 **Streak Stats**  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=playmonkey&theme=tokyonight)
