@@ -1,6 +1,6 @@
 
 **Streak Stats**  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=playmonkey)](https://github.com/anuraghazra/github-readme-stats)
+![PlayMonkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=playmonkey&show_icons=true&theme=radical)
 
 **Top Languages**  
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
