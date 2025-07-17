@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 
   https://www.lemon64.com/page/fun-and-games-programming-in-assembly
 
+- Build a 8-bit Micro-computer & tools
+
+  https://eater.net/8bit
+
+  https://francesco-scar.github.io/8-bit_pc/#graphical-user-interface---gui
+
 A few links to free music/sfx game assets:
 
   - Bosca Ceoil: The Blue Album (or Bosca Ceoil Blue, for short) is a simple and beginner-friendly app for making music. Using a step sequencer you can create anything from a simple beat to a complex melodic piece — with huge       selection of synthesized instruments!
