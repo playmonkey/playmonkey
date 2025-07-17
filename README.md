@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 A few links to free game assets:
 
   - Bosca Ceoil: The Blue Album (or Bosca Ceoil Blue, for short) is a simple and beginner-friendly app for making music. Using a step sequencer you can create anything from a simple beat to a complex melodic piece — with huge       selection of synthesized instruments!
-https://youtu.be/NB7yZ3YO7Dg?si=ipaArqrm_v7baZQJ
+
     https://yurisizov.itch.io/boscaceoil-blue
