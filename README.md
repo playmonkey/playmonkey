@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A few links to free game assets:
+
+  - Bosca Ceoil: The Blue Album (or Bosca Ceoil Blue, for short) is a simple and beginner-friendly app for making music. Using a step sequencer you can create anything from a simple beat to a complex melodic piece — with huge       selection of synthesized instruments!
+
+    https://yurisizov.itch.io/boscaceoil-blue
