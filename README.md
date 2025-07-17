@@ -26,5 +26,6 @@ A few links to free music/sfx game assets:
 
   - Soundtracks from Deceased-superior-technician (see the repo below for actual tracks)
 
-    https://projectglaive.com/games/deceased-superior-technician/
+    https://projectglaive.com/games/deceased-superior-technician
+    
     https://github.com/playmonkey/deceased-superior-technician-music
