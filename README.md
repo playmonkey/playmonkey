@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 
   https://francesco-scar.github.io/8-bit_pc/#graphical-user-interface---gui
 
-A few links to free music/sfx game assets: (https://soundimage.org/)
+A few links to free music/sfx game assets: 
+
+  - Thousands of free music tracks, sounds and images for your projects by Eric Matyas
+
+    https://soundimage.org/
 
   - Bosca Ceoil: The Blue Album (or Bosca Ceoil Blue, for short) is a simple and beginner-friendly app for making music. Using a step sequencer you can create anything from a simple beat to a complex melodic piece — with huge       selection of synthesized instruments!
 
