@@ -43,3 +43,7 @@ A few links to free music/sfx game assets:
     https://projectglaive.com/games/deceased-superior-technician
     
     https://github.com/playmonkey/deceased-superior-technician-music
+
+  - Useful Tools (Inc CPU simulator)
+    
+    https://tools.withcode.uk
